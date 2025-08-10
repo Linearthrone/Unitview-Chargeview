@@ -1,0 +1,28 @@
+total 364
+drwxr-xr-x 3 root root   4096 Aug  7 15:37 .
+drwxr-xr-x 1 root root    137 Aug  7 15:36 ..
+-rw-r--r-- 1 root root     55 Aug  7 15:35 .firebaserc
+-rw-r--r-- 1 root root    547 Aug  7 15:36 .gitignore
+-rw-r--r-- 1 root root      0 Aug  7 15:36 .modified
+-rw-r--r-- 1 root root   7016 Aug  7 15:36 README.md
+-rw-r--r-- 1 root root    695 Aug  7 15:36 apphosting.yaml
+-rw-r--r-- 1 root root    467 Aug  7 15:36 components.json
+-rw-r--r-- 1 root root   2126 Aug  7 15:36 erskurtwSourceReposunitview npm run build
+-rw-r--r-- 1 root root    683 Aug  7 15:36 firebase.json
+-rw-r--r-- 1 root root     46 Aug  7 15:36 firestore.indexes.json
+-rw-r--r-- 1 root root    772 Aug  7 15:36 firestore.rules
+-rw-r--r-- 1 root root  15043 Aug  7 15:36 in 2000ms
+-rw-r--r-- 1 root root  15043 Aug  7 15:36 in 3.0s
+-rw-r--r-- 1 root root    216 Aug  7 15:36 next-env.d.ts
+-rw-r--r-- 1 root root    568 Aug  7 15:36 next.config.ts
+-rw-r--r-- 1 root root     38 Aug  7 15:36 npm
+drwxr-xr-x 2 root root     50 Aug  7 15:37 outputs
+-rw-r--r-- 1 root root 251208 Aug  7 15:36 package-lock.json
+-rw-r--r-- 1 root root   2006 Aug  7 15:36 package.json
+-rw-r--r-- 1 root root      0 Aug  7 15:36 pglite-debug.log
+-rw-r--r-- 1 root root    143 Aug  7 15:36 postcss.config.mjs
+-rw-r--r-- 1 root root    327 Aug  7 15:36 storage.rules
+-rw-r--r-- 1 root root   3193 Aug  7 15:36 tailwind.config.ts
+-rw-r--r-- 1 root root   2126 Aug  7 15:36 ted module
+-rw-r--r-- 1 root root    652 Aug  7 15:36 todo.md
+-rw-r--r-- 1 root root    629 Aug  7 15:36 tsconfig.json

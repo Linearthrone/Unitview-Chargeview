@@ -1,0 +1,11 @@
+.
+./outputs
+./public
+./public/images
+./src
+./src/app
+./src/components
+./src/components/shared
+./src/components/ui
+./src/lib
+./src/styles
